@@ -7,5 +7,11 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "signature": {
+    "init": {
+      "hash": [],
+      "status": 0
+    }
   }
 }
