@@ -9,6 +9,7 @@
     "name": "typicode"
   },
   "signature": [
-    {"id": "init", "name": "hoge"}
+    {"id": "init", "name": "hoge"},
+    {"id":"", "name": "fuga"}
   ]
 }
