@@ -8,10 +8,7 @@
   "profile": {
     "name": "typicode"
   },
-  "signature": {
-    "init": {
-      "hash": [],
-      "status": 0
-    }
-  }
+  "signature": [
+    {"id": "init", "name": "hoge"}
+  ]
 }
